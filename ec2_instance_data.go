@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/jjones-smug/ec2-instances-info/data"
+	"github.com/blueharvest/ec2-instances-info/data"
 	"github.com/pkg/errors"
 )
 

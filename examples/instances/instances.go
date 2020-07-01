@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jjones-smug/ec2-instances-info"
+	"github.com/blueharvest/ec2-instances-info"
 )
 
 func main() {
